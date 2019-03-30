@@ -14,6 +14,7 @@ For more files, you can access [my google drive](https://drive.google.com/open?i
 6. [“Residual Attention Network for Image Classification”](https://arxiv.org/pdf/1704.06904.pdf)
 7. [“Squeeze-and-Excitation Networks”](https://arxiv.org/abs/1709.01507)
 8. [Pytorch implementation of Fast Style Transfer](https://github.com/eveningglow/fast-style-transfer-pytorch)
+9. [ResidualAttentionNetwork-pytorch](https://github.com/tengshaofeng/ResidualAttentionNetwork-pytorch)
 # Our Model
 ![Model](pics/model.png)
 # Result
