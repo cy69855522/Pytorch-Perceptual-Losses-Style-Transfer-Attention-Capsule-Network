@@ -23,8 +23,8 @@ Ours
 Other results
 <img src="pics/sqfwgroup.png"/>
 <img src="pics/udnie_sqfwgroup.png" height="500"/>
-<img src="pics/wqz.jpg" width="450" />
-<img src="pics/candy_wqz.png" width="450" />
+<img src="pics/wqz.jpg" width="425" />
+<img src="pics/candy_wqz.png" width="425" />
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
 ```
