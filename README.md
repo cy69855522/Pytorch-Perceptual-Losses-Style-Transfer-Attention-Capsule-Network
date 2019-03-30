@@ -3,7 +3,7 @@ Perceptual Losses - Style Transfer - Attention Capsule Network
 
 This project is a school assignment, we refer to attention53 and the capsule network to construct a new feedforward neural network to reproduce the style transfer method proposed in the 2016 ECCV paper "Perceptual Losses for Real-Time Style Transfer and Super-Resolution", and the new effect can highlight the significant features.
 For more details, please download the report.
-For more codes, you can access [my google drive](https://drive.google.com/open?id=1CbY5-lACB-DyZJtiQv6WRlkgkjZBrC8e).
+For more files, you can access [my google drive](https://drive.google.com/open?id=1CbY5-lACB-DyZJtiQv6WRlkgkjZBrC8e).
 
 # References
 1. [“A Neural Algorithm of Artistic Style”](https://arxiv.org/pdf/1508.06576.pdf)
