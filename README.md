@@ -17,9 +17,9 @@ For more codes, you can access [my google drive](https://drive.google.com/open?i
 # Our Model
 ![Model](pics/model.png)
 # Result
-A record of the training process
+Records of the training process
 
-<img src="pics/1545132249292.gif" width="425" /><img src="pics/1544722560432.gif" width="425" />
+<img src="pics/1545132249292.gif" width="425" /> <img src="pics/1544722560432.gif" width="425" />
 
 Original Picture
 ![1](pics/ybhpp.png)
