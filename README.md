@@ -21,10 +21,10 @@ Original Picture
 Ours
 ![3](pics/capsnet_vgg_ybh.png)
 Other results
-![4](sqfwgroup.png)
-![5](udnie_sqfwgroup.png)
-![6](wqz.jpg)
-![7](cndy_wqz.png)
+![4](pics/sqfwgroup.png)
+![5](pics/udnie_sqfwgroup.png)
+![6](pics/wqz.jpg)
+![7](pics/cndy_wqz.png)
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
 ```
