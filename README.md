@@ -18,7 +18,9 @@ For more codes, you can access [my google drive](https://drive.google.com/open?i
 ![Model](pics/model.png)
 # Result
 A record of the training process
+
 ![0](pics/1545132249292.gif)
+
 Original Picture
 ![1](pics/ybhpp.png)
 2016 Paper
