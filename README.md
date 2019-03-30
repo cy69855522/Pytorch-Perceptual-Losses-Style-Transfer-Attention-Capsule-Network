@@ -21,10 +21,10 @@ Original Picture
 Ours
 ![3](pics/capsnet_vgg_ybh.png)
 Other results
-<img src="pics/sqfwgroup.png"/>
-<img src="pics/udnie_sqfwgroup.png"/>
-<img src="pics/wqz.jpg" width="500" />
-<img src="pics/candy_wqz.png" width="500" />
+<img src="pics/sqfwgroup.png" height="400"/>
+<img src="pics/udnie_sqfwgroup.png" height="400"/>
+<img src="pics/wqz.jpg" width="400" />
+<img src="pics/candy_wqz.png" width="400" />
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
 ```
