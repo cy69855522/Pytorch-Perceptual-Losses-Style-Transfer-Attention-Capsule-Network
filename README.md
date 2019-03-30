@@ -73,3 +73,6 @@ test(
     norm_type='instance', # batch instance
 )
 ```
+# Paper notes in Chinese.
+(“A Neural Algorithm of Artistic Style”)
+![note](pics/note.jpg)
