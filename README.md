@@ -21,9 +21,9 @@ Original Picture
 Ours
 ![3](pics/capsnet_vgg_ybh.png)
 Other results
-![4](pics/sqfwgroup.png%7CimageView2/2/w/50)
-![5](pics/udnie_sqfwgroup.png)
-![6](pics/wqz.jpg)
+<img src="pics/sqfwgroup.png" width="300" />
+<img src="pics/udnie_sqfwgroup.png" width="300" />
+<img src="pics/wqz.jpg" width="300" />
 <img src="pics/candy_wqz.png" width="300" />
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
