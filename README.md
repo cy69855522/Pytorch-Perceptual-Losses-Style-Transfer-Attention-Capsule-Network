@@ -29,7 +29,7 @@ Other results
 <img src="pics/wqz.jpg" width="425" />
 <img src="pics/candy_wqz.png" width="425" />
 # How to use it？
-Upload demo.ipynb to colab, and then run the ceils you need.
+Upload demo.ipynb to colab, and then run the cells you need.
 ```
 # train
 s = Solver(trn_dir = '../Perceptual/pytorch_v/data',
