@@ -18,7 +18,7 @@ For more codes, you can access [my google drive](https://drive.google.com/open?i
 ![Model](pics/model.png)
 # Result
 Original Picture
-![1](pics/ybhpp.jpg)
+![1](pics/ybhpp.png)
 2016 Paper
 ![2](pics/ybh_s.png)
 Ours
