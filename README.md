@@ -6,6 +6,7 @@ This project is a school assignment, we refer to attention53 and the capsule net
 # References
 1. [Perceptual Losses](https://arxiv.org/abs/1603.08155)
 # Our Model
+![Model](pics/model.png)
 # Result
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
