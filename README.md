@@ -25,7 +25,7 @@ Original Picture
 ![1](pics/ybhpp.png)
 2016 Paper
 ![2](pics/ybh_s.png)
-Ours
+Ours (attention + capsule + vgg)
 ![3](pics/capsnet_vgg_ybh.png)
 Other results
 <img src="pics/sqfwgroup.png"/>
