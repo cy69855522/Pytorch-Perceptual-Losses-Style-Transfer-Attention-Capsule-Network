@@ -15,11 +15,16 @@ This project is a school assignment, we refer to attention53 and the capsule net
 ![Model](pics/model.png)
 # Result
 Original Picture
- ![1](pics/ybhpp.jpg)
+![1](pics/ybhpp.jpg)
 2016 Paper
- ![2](pics/ybh_s.png)
+![2](pics/ybh_s.png)
 Ours
- ![3](pics/capsnet_vgg_ybh.png)
+![3](pics/capsnet_vgg_ybh.png)
+Other results
+![4](sqfwgroup.png)
+![5](udnie_sqfwgroup.png)
+![6](wqz.jpg)
+![7](cndy_wqz.png)
 # How to use it？
 Upload demo.ipynb to colab, and then run the ceils you need.
 ```
